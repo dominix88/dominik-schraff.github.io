@@ -1,0 +1,35 @@
+---
+title: "Teaching"
+format: html
+---
+
+## Current Teaching
+
+-   **EU Polity & Politics** (Master in International Affairs, Aalborg University)
+-   **EU Policy** (Master in International Affairs, Aalborg University)
+-   **Political Institutions** (Bachelor in Politics & Administration, Aalborg University)
+-   **Political Behavior** (Bachelor in Politics & Administration, Aalborg University)
+-   **How Democracies Die: Current Challenges for Liberal Democracy** (Bachelor in Politics & Administration, Aalborg University)
+-   **Explanatory statistical modelling of observation data** (PhD course at the Doctoral School of Social Sciences and Humanities, Aalborg University)
+-   **Thesis Preparation Seminar** (Master in International Affairs, Aalborg University)
+-   **Policy Lab 2: Multi-level Governance** (Master in Politics & Administration, Aalborg University)
+
+## Past Teaching
+
+### Lectures and Seminars
+
+-   **Research Design** (Master in International Affairs, Aalborg University)
+-   **European Policies, Economics and Society** (Master in International Affairs, Aalborg University)
+-   **Methods I – Research Design** (Master in International and Comparative Studies, ETH Zurich)
+-   **Bachelor Colloquium** (B.A. in Public Policy, ETH Zurich)
+-   **Contemporary European Politics** (Science in Perspective, ETH Zurich)
+-   **Research Seminar Comparative and European Politics** (Master in International and Comparative Studies, ETH Zurich)
+-   **Methods II – Essential Mathematics, Basic Statistics, and Linear Regression** (ETH Zurich, Winter Term 2017)
+-   **The Regional Policy of the European Union** (University of St. Gallen, Spring Terms 2013, 2014, 2016)
+
+### Tutorials
+
+-   **Social Science Methodology: Concepts and Measurement** (University of St. Gallen, Autumn Term 2014)
+-   **Social Science Methodology: Research Design** (University of St. Gallen, Spring Term 2014)
+-   **Social Science Methodology: Qualitative Comparative Analysis and Fuzzy Sets** (University of St. Gallen, Autumn Term 2013)
+-   **International Relations Theory** (University of St. Gallen, Spring Terms 2013 and 2014)

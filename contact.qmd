@@ -1,0 +1,16 @@
+---
+title: "Contact"
+format: html
+---
+
+## Dominik Schraff, Associate Professor
+
+**Office Address**\
+Fibigerstræde 2, room 63\
+9220 Aalborg East
+
+**Email**\
+dosc \[at\] dps.aau.dk
+
+**Phone**\
++45 9940 2684
