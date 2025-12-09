@@ -7,29 +7,29 @@ format: html
 
 -   **Hegewald, Sven and Schraff, Dominik.** 2025. *Is the urban-rural divide affectively polarised?* Comparative Political Studies, [Online First](https://journals.sagepub.com/doi/10.1177/00104140251369317).
 -   **Schraff, Dominik and Hegewald, Sven.** 2025. *Ethnic diversity and political trust at the onset of the Covid-19 pandemic.* European Political Science Review, [17(1): 99–109](https://www.cambridge.org/core/journals/european-political-science-review/article/ethnic-diversity-and-political-trust-at-the-onset-of-the-covid19-pandemic/DC9525F445B77A6D9D5C69E663A366C1).
--   **Haffert, Lukas, Palmtag, Tabea, and Schraff, Dominik.** 2024. *When group appeals backfire: explaining the asymmetric effects of place-based appeals.* British Journal of Political Science, [54(4): 1217–1238](https://doi.org/10.1017/S0007123424000218). \[Replication Material\]
+-   **Haffert, Lukas, Palmtag, Tabea, and Schraff, Dominik.** 2024. *When group appeals backfire: explaining the asymmetric effects of place-based appeals.* British Journal of Political Science, [54(4): 1217–1238](https://doi.org/10.1017/S0007123424000218).
 -   **Ejrnæs, Anders, Dagnis Jensen, Mads, Schraff, Dominik, and Vasilopoulou, Sofia.** 2024. *Introduction: Regional Inequality and Political Discontent in Europe.* Journal of European Public Policy, [31(6): 1465–1493](https://doi.org/10.1080/13501763.2024.2333850).
--   **Hegewald, Sven and Schraff, Dominik.** 2024. *Corruption and trust in the European Parliament: Quasi-experimental evidence from the Qatargate scandal.* European Journal of Political Research, [63(4): 1674–1685](https://doi.org/10.1111/1475-6765.12654). \[Replication Material\]
+-   **Hegewald, Sven and Schraff, Dominik.** 2024. *Corruption and trust in the European Parliament: Quasi-experimental evidence from the Qatargate scandal.* European Journal of Political Research, [63(4): 1674–1685](https://doi.org/10.1111/1475-6765.12654).
 -   **Schraff, Dominik and Pontusson, Jonas.** 2024. *Falling Behind Whom? Economic Geographies of Right-Wing Populism in Europe.* Journal of European Public Policy, [32(6): 1591–1619](https://doi.org/10.1080/13501763.2023.2278647).
--   **Malang, Thomas and Schraff, Dominik.** 2024. *How differentiated integration shapes the constraining dissensus.* Journal of European Public Policy, [31(9): 2878–2906](https://doi.org/10.1080/13501763.2023.2229377). \[Replication Material\]
--   **Hegewald, Sven and Schraff, Dominik.** 2024. *Who rallies around the flag? Evidence from panel data during the Covid-19 pandemic.* Journal of Elections, Public Opinion and Parties, [34(1): 158–197](https://www.tandfonline.com/doi/full/10.1080/17457289.2022.2120886). \[Pre-Print\]
+-   **Malang, Thomas and Schraff, Dominik.** 2024. *How differentiated integration shapes the constraining dissensus.* Journal of European Public Policy, [31(9): 2878–2906](https://doi.org/10.1080/13501763.2023.2229377).
+-   **Hegewald, Sven and Schraff, Dominik.** 2024. *Who rallies around the flag? Evidence from panel data during the Covid-19 pandemic.* Journal of Elections, Public Opinion and Parties, [34(1): 158–197](https://www.tandfonline.com/doi/full/10.1080/17457289.2022.2120886).
 -   **Schraff, Dominik, Vergioglou, Ioannis, and Demirci, Buket Buse.** 2023. *The European NUTS-Level Election Dataset: A Tool to Map the European Electoral Geography.* Party Politics, [29(3): 570–579](https://doi.org/10.1177/13540688221083). \[[Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IQRYP5)\]
 -   **Schraff, Dominik and Sczepanski, Ronja.** 2022. *United or divided in diversity? The heterogeneous effects of ethnic diversity on European and national identities.* European Union Politics, [23(2): 236–258](https://doi.org/10.1177/14651165211063770).
--   **Schraff, Dominik.** 2022. *Asymmetric ratification standards and popular perceptions of legitimacy.* Journal of European Public Policy, [29(3): 405–426](https://doi.org/10.1080/13501763.2020.1853796). \[Replication Material\]
--   **Lipps, Jana and Schraff, Dominik.** 2021. *Estimating subnational preferences across the European Union.* Political Science Research & Methods, [9(1): 197–205](https://doi.org/10.1017/psrm.2019.38). \[Replication Material\]
--   **Lipps, Jana and Schraff, Dominik.** 2021. *Regional Inequality and Institutional Trust in Europe.* European Journal of Political Research, [60(4): 829–913](https://doi.org/10.1111/1475-6765.12430). \[Pre-Print\] \[Replication Material\]
--   **Schraff, Dominik.** 2021. *Political trust during the Covid-19 pandemic. Rally around the flag or lockdown effects?* European Journal of Political Research, [60(4): 1007–1017](https://doi.org/10.1111/1475-6765.12425). \[Pre-Print\] \[Replication Material\]
--   **Schraff, Dominik and Schimmelfennig, Frank.** 2020. *Does differentiated integration strengthen the democratic legitimacy of the EU? Evidence from the 2015 Danish opt-out referendum.* European Union Politics, [21(4): 590–611](https://doi.org/10.1177/1465116520949698). \[Replication Material\]
+-   **Schraff, Dominik.** 2022. *Asymmetric ratification standards and popular perceptions of legitimacy.* Journal of European Public Policy, [29(3): 405–426](https://doi.org/10.1080/13501763.2020.1853796).
+-   **Lipps, Jana and Schraff, Dominik.** 2021. *Estimating subnational preferences across the European Union.* Political Science Research & Methods, [9(1): 197–205](https://doi.org/10.1017/psrm.2019.38).
+-   **Lipps, Jana and Schraff, Dominik.** 2021. *Regional Inequality and Institutional Trust in Europe.* European Journal of Political Research, [60(4): 829–913](https://doi.org/10.1111/1475-6765.12430).
+-   **Schraff, Dominik.** 2021. *Political trust during the Covid-19 pandemic. Rally around the flag or lockdown effects?* European Journal of Political Research, [60(4): 1007–1017](https://doi.org/10.1111/1475-6765.12425).
+-   **Schraff, Dominik and Schimmelfennig, Frank.** 2020. *Does differentiated integration strengthen the democratic legitimacy of the EU? Evidence from the 2015 Danish opt-out referendum.* European Union Politics, [21(4): 590–611](https://doi.org/10.1177/1465116520949698).
 -   **Schraff, Dominik.** 2020. *Is the member states’ curse the EU’s blessing? Inequality and EU regime evaluation.* Journal of Common Market Studies, [58(5): 1215–1234](https://doi.org/10.1111/jcms.13027).
--   **Schraff, Dominik and Schimmelfennig, Frank.** 2019. *Eurozone Bailouts and National Democracy: Detachment or Resilience?* European Union Politics, [20(3): 361–383](https://doi.org/10.1177/1465116519848846). \[Replication Material\]
--   **Schraff, Dominik.** 2019. *Regional redistribution and Eurosceptic voting.* Journal of European Public Policy, [26(1): 83–105](https://doi.org/10.1080/13501763.2017.1394901). \[Replication Material\]
+-   **Schraff, Dominik and Schimmelfennig, Frank.** 2019. *Eurozone Bailouts and National Democracy: Detachment or Resilience?* European Union Politics, [20(3): 361–383](https://doi.org/10.1177/1465116519848846).
+-   **Schraff, Dominik.** 2019. *Regional redistribution and Eurosceptic voting.* Journal of European Public Policy, [26(1): 83–105](https://doi.org/10.1080/13501763.2017.1394901).
 -   **Schraff, Dominik.** 2019. *Politically alienated through low-wage work? Evidence from panel data.* Swiss Political Science Review, [25(1): 19–39](https://doi.org/10.1111/spsr.12342).
 -   **Schraff, Dominik.** 2018. *Labor market disadvantage and political alienation: a longitudinal perspective on the heterogeneous risk in temporary employment.* Acta Politica, [53(1): 48–67](https://link.springer.com/article/10.1057/s41269-016-0037-6).
 -   **Emmenegger, Patrick, Marx, Paul and Schraff, Dominik.** 2017. *Gescheiterte Berufseinstiege und politische Sozialisation. Eine Längsschnittstudie zur Wirkung früher Arbeitslosigkeit auf politisches Interesse.* Zeitschrift für Soziologie, [46(3): 201–208](https://www.degruyter.com/view/j/zfsoz.2017.46.issue-3/zfsoz-2017-1012/zfsoz-2017-1012.xml?format=INT).
--   **Emmenegger, Patrick, Marx, Paul and Schraff, Dominik.** 2017. *Off to a Bad Start: Unemployment and Political Interest during early Adulthood.* Journal of Politics, [79(1): 315–328](https://doi.org/10.1086/688226). \[Replication Material\]
--   **Dellmuth, Lisa M., Schraff, Dominik and Stoffel, Michael F.** 2017. *Distributive Politics, Electoral Institutions, and European Structural and Investment Funding: Evidence from Italy and France.* Journal of Common Market Studies, [55(2): 275–293](http://onlinelibrary.wiley.com/doi/10.1111/jcms.12433/suppinfo). \[Replication Material\]
+-   **Emmenegger, Patrick, Marx, Paul and Schraff, Dominik.** 2017. *Off to a Bad Start: Unemployment and Political Interest during early Adulthood.* Journal of Politics, [79(1): 315–328](https://doi.org/10.1086/688226).
+-   **Dellmuth, Lisa M., Schraff, Dominik and Stoffel, Michael F.** 2017. *Distributive Politics, Electoral Institutions, and European Structural and Investment Funding: Evidence from Italy and France.* Journal of Common Market Studies, [55(2): 275–293](http://onlinelibrary.wiley.com/doi/10.1111/jcms.12433/suppinfo).
 -   **Emmenegger, Patrick, Marx, Paul and Schraff, Dominik.** 2015. *Labour market disadvantage, political orientations and voting: How adverse labour market experiences translate into electoral behaviour.* Socio-Economic Review, [13(2): 189–213](https://doi.org/10.1093/ser/mwv003).
--   **Schraff, Dominik.** 2014. *Buying Turnout or Rewarding Loyalists? Electoral Mobilization and Structural Funding in the German Länder.* European Union Politics, [15(2): 277–288.](https://doi.org/10.1177/1465116513509308) \[Replication Material\]
+-   **Schraff, Dominik.** 2014. *Buying Turnout or Rewarding Loyalists? Electoral Mobilization and Structural Funding in the German Länder.* European Union Politics, [15(2): 277–288.](https://doi.org/10.1177/1465116513509308)
 
 ## Other Publications
 
@@ -40,46 +40,46 @@ format: html
 
 ## Topics of Ongoing Projects
 
--   The political geography of EU support\
--   Preferences on inter-territorial redistribution\
--   Transnational fairness and the legitimacy of supranational governance\
--   The politicization of the urban-rural divide in Europe\
+-   The political geography of EU support
+-   Preferences on inter-territorial redistribution
+-   Transnational fairness and the legitimacy of supranational governance
+-   The politicization of the urban-rural divide in Europe
 -   How politicians appeal to social groups
 
 ## Conference Participation
 
--   DPSA: 2021-2025\
--   APSA: 2022\
--   SGEU: 2022\
--   Inequality Conference Konstanz: 2022\
--   EPSA: 2017, 2018, 2019, 2020\
--   MPSA: 2017, 2018, 2025\
--   SVPW: 2014–2020\
--   ECPR: 2014, 2018\
--   3rd International ESS Conference: 2016\
--   ECSA Suisse: 2015, 2018\
--   CES: 2015\
--   8th International Conference of Panel Data Users in Switzerland: 2015\
--   PEIO: 2015, 2019\
--   QCA Expert Workshop Zurich: 2013, 2015\
+-   DPSA: 2021-2025
+-   APSA: 2022
+-   SGEU: 2022
+-   Inequality Conference Konstanz: 2022
+-   EPSA: 2017, 2018, 2019, 2020
+-   MPSA: 2017, 2018, 2025
+-   SVPW: 2014–2020
+-   ECPR: 2014, 2018
+-   3rd International ESS Conference: 2016
+-   ECSA Suisse: 2015, 2018
+-   CES: 2015
+-   8th International Conference of Panel Data Users in Switzerland: 2015
+-   PEIO: 2015, 2019
+-   QCA Expert Workshop Zurich: 2013, 2015
 -   PSA Comparative European Politics: 2013
 
 ## Media
 
 -   [Media reports](https://vbn.aau.dk/da/persons/dosc/clippings/) on place-based affective polarization in Denmark
 
--   Interview with *Politiken* on the rise of the far-right and German politics\
+-   Interview with *Politiken* on the rise of the far-right and German politics
 
--   EUROPP blog with Ronja Sczepanski: *How our neighbourhoods shape our European and national identities*\
+-   EUROPP blog with Ronja Sczepanski: *How our neighbourhoods shape our European and national identities*
 
--   EUROPP blog with Frank Schimmelfennig: *Does differentiated integration improve the democratic legitimacy of the EU?*\
+-   EUROPP blog with Frank Schimmelfennig: *Does differentiated integration improve the democratic legitimacy of the EU?*
 
--   *The Economist*: *The satisfied stay at home*, Aug 10th 2019\
+-   *The Economist*: *The satisfied stay at home*, Aug 10th 2019
 
--   *Spiegel Online*: *Wer seinen Job verliert, verliert das Interesse an Politik*\
+-   *Spiegel Online*: *Wer seinen Job verliert, verliert das Interesse an Politik*
 
--   EUROPP blog with Lisa Dellmuth: *Do governments use EU funds to help buy votes in elections?*\
+-   EUROPP blog with Lisa Dellmuth: *Do governments use EU funds to help buy votes in elections?*
 
--   EUROPP blog with Lisa Dellmuth and Michael Stoffel: *EU funding policies may be undermined by regional authorities using structural fund allocations to win votes at the local level*\
+-   EUROPP blog with Lisa Dellmuth and Michael Stoffel: *EU funding policies may be undermined by regional authorities using structural fund allocations to win votes at the local level*
 
 -   Eldiario blog with Lisa Dellmuth and Michael Stoffel: *Los gobiernos regionales utilizan fondos europeos para ganar votos*
