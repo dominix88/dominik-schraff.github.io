@@ -5,7 +5,7 @@ format: html
 
 ## Welcome
 
-Hi, welcome to my site. I am an Associate Professor of Political Science at [Aalborg University](https://vbn.aau.dk/da/persons/dosc).
+Hi, welcome to my site. I am a Professor of Political Science at [Aalborg University](https://vbn.aau.dk/da/persons/dosc).
 
 My research focuses on the political economy of European integration and comparative political behavior within the European Union. I explore how inequalities influence political attitudes and engagement, particularly regarding European integration. Additionally, I examine the role of public policy in addressing and reducing these inequalities.
 

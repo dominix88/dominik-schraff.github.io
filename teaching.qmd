@@ -7,12 +7,12 @@ format: html
 
 -   **EU Polity & Politics** (Master in International Affairs, Aalborg University)
 -   **EU Policy** (Master in International Affairs, Aalborg University)
--   **Political Institutions** (Bachelor in Politics & Administration, Aalborg University)
--   **Political Behavior** (Bachelor in Politics & Administration, Aalborg University)
--   **How Democracies Die: Current Challenges for Liberal Democracy** (Bachelor in Politics & Administration, Aalborg University)
+-   **Political Institutions** (Bachelor in Political Science, Aalborg University)
+-   **Political Behavior** (Bachelor in Political Science, Aalborg University)
+-   **How Democracies Die: Current Challenges for Liberal Democracy** (Bachelor in Political Science, Aalborg University)
 -   **Explanatory statistical modelling of observation data** (PhD course at the Doctoral School of Social Sciences and Humanities, Aalborg University)
 -   **Thesis Preparation Seminar** (Master in International Affairs, Aalborg University)
--   **Policy Lab 2: Multi-level Governance** (Master in Politics & Administration, Aalborg University)
+-   **Policy Lab 2: Multi-Level Governance** (Master in Political Science, Aalborg University)
 
 ## Past Teaching
 
