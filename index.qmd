@@ -2,6 +2,6 @@
 title: "Welcome"
 ---
 
-I am an Associate Professor of Political Science at Aalborg University. Here, you can find information about my research, teaching, and ongoing projects.
+I am a Professor of Political Science at Aalborg University. Here, you can find information about my research, teaching, and ongoing projects.
 
 ![](https://vbn.aau.dk/files-asset/716456966/DominikSchraff.jpg?w=160&f=webp){width="136"}
