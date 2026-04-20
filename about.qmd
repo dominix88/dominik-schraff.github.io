@@ -9,7 +9,9 @@ Hi, welcome to my site. I am a Professor of Political Science at [Aalborg Univer
 
 My research focuses on the political economy of European integration and comparative political behavior within the European Union. I explore how inequalities influence political attitudes and engagement, particularly regarding European integration. Additionally, I examine the role of public policy in addressing and reducing these inequalities.
 
-For the period 2019–2024, I received funding from the Swiss National Science Foundation for a large research project on regional inequality and the political geography of EU support. Over the past years, my work has been published in leading political science journals, including:
+For the period 2019–2024, I received funding from the Swiss National Science Foundation for a large research project on regional inequality and the political geography of EU support. Currently, I am participating in the EU Horizon project "Enhancing Democratic Support under Conditions of Geographic and Intersectional Inequalities in Europe".
+
+Over the past years, my work has been published in leading political science journals, including:
 
 -   *British Journal of Political Science*
 -   *Journal of Politics*
@@ -17,4 +19,4 @@ For the period 2019–2024, I received funding from the Swiss National Science F
 -   *Comparative Political Studies*
 -   *Journal of European Public Policy*
 
-I am co-chair of the Political Behavior and Political Communication section of the Danish Political Science Association. I also lead the [Comparative Politics Research Group](https://www.politics-society.aau.dk/research/institutions-policy-and-behavior/comparative-politics-compol) at Aalborg University and serve on the editorial board of the *Journal of European Public Policy*. Additionally, I am part of the [European NUTS-Level Election Dataset (EU-NED)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IQRYP5) project.
+I am a board member of the [Danish Political Science Association](https://dpsa.dk/). I also lead the [Comparative Politics Research Group](https://www.politics-society.aau.dk/research/institutions-policy-and-behavior/comparative-politics-compol) at Aalborg University and serve on the editorial board of the [*Journal of European Public Policy*.](https://www.tandfonline.com/journals/rjpp20) Additionally, I am part of the [European NUTS-Level Election Dataset (EU-NED)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IQRYP5) project.
